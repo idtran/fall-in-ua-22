@@ -17,6 +17,19 @@ View the timestamps and map locations of the members in your network.
 Invite others to join your network.
 [Insert image here]
 
+###!During demonstration, do not set to any cadence to longer than 30 mins else: CRASH###
+
+Check-in intervals can be customized as follows:
+* 6 hrs
+* 12 hrs
+* 18 hrs
+* 24 hrs
+* 2 days
+* 3 days
+* 5 days
+* 1 week
+* 2 weeks
+
 ### Technologies Utilized
 * [SvelteKit](https://svelte.dev/)
 * [Vercel](https://vercel.com/)
@@ -30,9 +43,9 @@ Invite others to join your network.
 * [Coolors](https://coolors.co/)
 
 ### Collaborators
-Built during the 2022 Fall In Hackathon by:
+Built during the Apr. 2022 Fall In Ukraine Benefit Hackathon by:
 * [Brian Donald](https://github.com/0c370t)
-* [Ian Tran](https://github.com/idtran)
+* [Ian Tran] (https://github.com/idtran)
 * [Leeia Isabelle](https://github.com/Leeiaisabelle)
 * [Sir David Timothy Wayne, Jr.](https://github.com/Wolverine971)
 * [Tejash Desai](https://github.com/Tejash241)
